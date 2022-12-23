@@ -1,3 +1,5 @@
+# Riakuto-StartingReact-ja4.0
+
 # 『りあクト！ TypeScript で始めるつらくない React 開発 &nbsp;第 4 版』サポートページ
 
 このリポジトリは、『りあクト！ TypeScript で始めるつらくない React 開発 第 4 版』のサンプルコードおよび正誤表を提供するものです。なお、本書は以下のショップにて販売中です。
